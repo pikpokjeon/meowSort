@@ -1,4 +1,4 @@
-# Meow-Sort [randomSortJS]
+# Meow-Sort [randomSortJS][![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23900969&title_bg=%236C00E9&icon=medium.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Random Sorting your Array's any type of Element or Object's Values 
 #### UPDATE - 10/11/22 : Register on NPM
 ---
