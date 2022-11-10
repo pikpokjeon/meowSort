@@ -1,4 +1,6 @@
-# Meow-Sort [randomSortJS][![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23900969&title_bg=%236C00E9&icon=medium.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Meow-Sort [randomSortJS]
+Github Page : https://github.com/pikpokjeon/meowSort [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpikpokjeon%2FmeowSort&count_bg=%234D3A48&title_bg=%23CE00E9&icon=medium.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) 
+NPM PAGE :https://www.npmjs.com/package/meow-sort [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmeow-sort&count_bg=%234D3A48&title_bg=%236C00E9&icon=medium.svg&icon_color=%23FFFFFF&title=NPM&edge_flat=false)](https://hits.seeyoufarm.com)
 Random Sorting your Array's any type of Element or Object's Values 
 #### UPDATE - 10/11/22 : Register on NPM
 ---
