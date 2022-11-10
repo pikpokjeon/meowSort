@@ -1,0 +1,41 @@
+{
+  "name": "meow-sort",
+  "version": "1.0.1",
+  "description": "Random Sorting your Array or Object to Array with any Element type.",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "browser": "dist/umd/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikpokjeon/randomSortJS.git"
+  },
+  "keywords": [
+    "random",
+    "sort",
+    "sorting",
+    "array"
+  ],
+  "author": {
+    "name": "pikpokjeon",
+    "email": "pikpokjeon@gmail.com",
+    "url": "https://github.com/pikpokjeon"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pikpokjeon/randomSortJS/issues"
+  },
+  "homepage": "https://github.com/pikpokjeon/randomSortJS#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-commonjs": "^20.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.4",
+    "rollup": "^2.56.3"
+  }
+}
