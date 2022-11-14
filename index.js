@@ -2,7 +2,7 @@ const genRandomNumInRange = ( min, max ) => Math.round( Math.random() * max ) + 
 
 const random = toSort =>
 {
-    const cubes = [...( Array.isArray( toSort ) ? toSort : Object.values( toSort ) ).flatMap( f => f )]
+    const cubes = [...( Array.isArray( toSort ) ? toSort : Object.values( toSort ) )]
     const _cubes = [...cubes]
     const que = cubes.reduce( ( box, _, i ) =>
     {
@@ -18,10 +18,13 @@ const random = toSort =>
         }
         return box
     }, [] )
-    console.log( que )
     return que
 }
 
 const meowSort = {random}
+
+// let a = meowSort.random( [1, 2, 3, [4, 5, 6], 7, 8, 9, [10, 11], 13], 14 )
+// a = meowSort.random( { 1: 'A', 2: 'B', 3: ['C', 'D'], 4: 'E' } )
+// console.log( a )
 
 export {meowSort}
