@@ -1,6 +1,6 @@
 {
   "name": "meow-sort",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Random Sorting your Array or Object to Array with any Element type.",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
